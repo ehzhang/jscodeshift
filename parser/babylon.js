@@ -18,11 +18,11 @@ const options = {
   allowReturnOutsideFunction: true,
   plugins: [
     'jsx',
-    'flow',
     'asyncFunctions',
     'classConstructorCall',
     'doExpressions',
     'trailingFunctionCommas',
+    'typescript',
     'objectRestSpread',
     'decorators',
     'classProperties',
